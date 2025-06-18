@@ -1,0 +1,28 @@
+💰 Projeto: Sistema Bancário em Python
+📌 Descrição
+Este repositório contém um projeto desenvolvido como parte de um desafio proposto durante o Bootcamp de Python. O objetivo é criar um Sistema Bancário simples, simulando as principais operações de um caixa eletrônico: depósito, saque e visualização de extrato.
+
+Durante o desenvolvimento, aplicamos conceitos fundamentais da programação em Python, como estruturas de controle, funções e manipulação de dados, com foco em desenvolver uma solução funcional e prática.
+
+🎯 Objetivo Geral
+Implementar um sistema bancário com as seguintes funcionalidades:
+
+💵 Depositar valores
+
+🏧 Realizar saques
+
+📄 Visualizar extrato bancário
+
+🛠️ Tecnologias utilizadas
+Python 3.x
+
+🚀 Habilidades trabalhadas
+Lógica de programação
+
+- Estruturas de repetição e condição
+
+- Manipulação de variáveis e entrada de dados
+
+- Organização de código em funções
+
+- Simulação de operações bancárias
