@@ -26,12 +26,3 @@ Implementar um sistema com as funcionalidades:
 - Organização do código com funções
 - Simulação de operações bancárias
 
-
-
-
-
-
-💰🏦💳📈📉
-💸🧾📋🔐🪙
-🤑💼👨‍💻👛🔍
-📊🧮🔁✅❌
