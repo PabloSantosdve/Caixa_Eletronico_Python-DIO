@@ -25,3 +25,13 @@ Implementar um sistema com as funcionalidades:
 - Entrada e saída de dados
 - Organização do código com funções
 - Simulação de operações bancárias
+
+
+
+
+
+
+💰🏦💳📈📉
+💸🧾📋🔐🪙
+🤑💼👨‍💻👛🔍
+📊🧮🔁✅❌
